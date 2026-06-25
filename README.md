@@ -54,11 +54,11 @@ Real estate listing & sales platform for the Singapore market with a React-based
 |---|---|---|
 | [IEE Du học](https://ieeduhoc.edu.vn/) | Website for an international education consulting center, supporting course info, blog, and lead-capture forms | WordPress, PHP |
 | [Bánh cốm Nguyên Ninh](https://nguyenninhofficial.com.vn/) | E-commerce website for a century-old traditional Vietnamese cake brand, with online ordering | WordPress, PHP |
-| [Gisoft PES League](https://pes.2nb9s.com/home/) | Internal app for tracking an office PES (football game) league — seasons, teams, and standings | PHP, MySQL |
+| [Gisoft PES League](https://pes.2nb9s.com/home/) | A leaderboard/standings system for an office PES (football game) league, ranking team members across seasons based on match results | PHP, MySQL |
 | [Phimway to IINA](https://github.com/thanh-lv/phimway) ⭐3 | CLI tool that streams movies into the IINA player on macOS, auto-fetching and injecting subtitles in real time via IPC socket, with automatic season playlist generation | Node.js |
 | AI Blog Content Generator | Personal Laravel-based tool integrating the OpenAI API to automatically generate blog content | PHP, Laravel, OpenAI API |
-| Gold & Silver Price Tracker Bot | Scrapes Vietnamese gold/silver price websites, stores historical data in Supabase, and sends real-time Telegram alerts whenever prices change | Node.js, Supabase, Telegram Bot API |
-| [English Record](https://english-record.onrender.com/) | A web app for tracking students' English learning progress, built for a tutor's ("Ms My") students | Built with AI-assisted development |
+| [Gold & Silver Price Tracker Bot](https://t.me/asset_price_tracker_bot) | Scrapes Vietnamese gold/silver price websites, stores historical data in Supabase, and sends real-time Telegram alerts whenever prices change | Node.js, Supabase, Telegram Bot API |
+| [English Record](https://english-record.onrender.com/) | A web app for tracking students' English learning progress, built for a tutor's ("Ms My") students, with AI-assisted development | React, Supabase |
 
 ---
 
