@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 6+ years building business web applications with **PHP / Laravel**, plus hands-on **Vue.js** & **React** for frontend integration
+- 🚀 5+ years building business web applications with **PHP / Laravel**, plus hands-on **Vue.js** & **React** for frontend integration
 - 🌏 Delivered international projects for **Japan** and **Singapore** markets — including a B2B SaaS platform serving 500+ business clients
 - ☁️ Currently leveling up on **AWS** (SAA-C03, DVA-C02) and **DevOps** — deployed a full Laravel + React stack on Kubernetes (local kind cluster)
 - 🤖 Integrated **OpenAI API** into a Laravel-based content generator; daily user of **Claude** & **Gemini** for AI-assisted development and prompt engineering
