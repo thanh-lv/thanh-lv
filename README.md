@@ -14,6 +14,7 @@
 - 🚀 6+ years building business web applications with **PHP / Laravel**, plus hands-on **Vue.js** & **React** for frontend integration
 - 🌏 Delivered international projects for **Japan** and **Singapore** markets — including a B2B SaaS platform serving 500+ business clients
 - ☁️ Currently leveling up on **AWS** (SAA-C03, DVA-C02) and **DevOps** — deployed a full Laravel + React stack on Kubernetes (local kind cluster)
+- 🤖 Integrated **OpenAI API** into a Laravel-based content generator; daily user of **Claude** & **Gemini** for AI-assisted development and prompt engineering
 - 📍 Based in Hanoi, Vietnam
 - 🗣️ TOEIC L&R 710/990 — actively improving Speaking & Writing
 
@@ -31,6 +32,9 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 
 ---
 
@@ -52,6 +56,7 @@ Real estate listing & sales platform for the Singapore market with a React-based
 | [Bánh cốm Nguyên Ninh](https://nguyenninhofficial.com.vn/) | E-commerce website for a century-old traditional Vietnamese cake brand, with online ordering | WordPress, PHP |
 | [Gisoft PES League](https://pes.2nb9s.com/home/) | Internal app for tracking an office PES (football game) league — seasons, teams, and standings | PHP, MySQL |
 | [Phimway to IINA](https://github.com/thanh-lv/phimway) ⭐3 | CLI tool that streams movies into the IINA player on macOS, auto-fetching and injecting subtitles in real time via IPC socket, with automatic season playlist generation | Node.js |
+| AI Blog Content Generator | Personal Laravel-based tool integrating the OpenAI API to automatically generate blog content | PHP, Laravel, OpenAI API |
 
 ---
 
