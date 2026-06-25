@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🚀 5+ years building business web applications with **PHP / Laravel**, plus hands-on **Vue.js** & **React** for frontend integration
+- 🚀 6+ years building business web applications with **PHP / Laravel**, plus hands-on **Vue.js** & **React** for frontend integration
 - 🌏 Delivered international projects for **Japan** and **Singapore** markets — including a B2B SaaS platform serving 500+ business clients
 - ☁️ Currently leveling up on **AWS** (SAA-C03, DVA-C02) and **DevOps** — deployed a full Laravel + React stack on Kubernetes (local kind cluster)
 - 📍 Based in Hanoi, Vietnam
@@ -51,6 +51,7 @@ Real estate listing & sales platform for the Singapore market with a React-based
 | [IEE Du học](https://ieeduhoc.edu.vn/) | Website for an international education consulting center, supporting course info, blog, and lead-capture forms | WordPress, PHP |
 | [Bánh cốm Nguyên Ninh](https://nguyenninhofficial.com.vn/) | E-commerce website for a century-old traditional Vietnamese cake brand, with online ordering | WordPress, PHP |
 | [Gisoft PES League](https://pes.2nb9s.com/home/) | Internal app for tracking an office PES (football game) league — seasons, teams, and standings | PHP, MySQL |
+| [Phimway to IINA](https://github.com/thanh-lv/phimway) ⭐3 | CLI tool that streams movies into the IINA player on macOS, auto-fetching and injecting subtitles in real time via IPC socket, with automatic season playlist generation | Node.js |
 
 ---
 
